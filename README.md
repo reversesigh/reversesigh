@@ -8,5 +8,5 @@ PGP [0B547119AB0B27C2](https://keybase.io/reversesigh)
 
 📧 E-mail: `james@lavenderfive.com`  
 💬 Discord: `reversesigh`  
-💬 Element: `@incentive:matrix.org`  
+💬 Element: `@reversesigh:matrix.org`  
   
