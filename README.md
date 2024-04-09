@@ -7,5 +7,5 @@
 
 📧 E-mail: `james@lavenderfive.com`  
 💬 Discord: `reversesigh`  
-💬 Element: `@reversesigh:matrix.org`  
+💬 Matrix: `@reversesigh:matrix.org`  
   
